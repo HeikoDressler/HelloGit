@@ -1,2 +1,2 @@
 # HelloGit
-learning a git
+learning a git in a nutshell
